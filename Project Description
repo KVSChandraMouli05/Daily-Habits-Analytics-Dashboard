@@ -1,0 +1,122 @@
+# 📊 Daily Habits Analytics Dashboard — Project Description
+
+## 📌 Overview  
+The **Daily Habits Analytics Dashboard** is a complete analytical system built using **Google Sheets & Excel** to track personal productivity habits across multiple time periods.  
+This dashboard converts simple daily inputs into **weekly, monthly, and yearly performance insights**, making it a real-world example of data analytics applied to personal behavior tracking.
+
+This project demonstrates essential Data Analyst skills including:  
+- Data cleaning  
+- Time-series analysis  
+- KPI tracking  
+- Dashboard creation  
+- Automated insights  
+- Trend visualization  
+- Continuous data updating  
+
+---
+
+## 🎯 Project Goals  
+The goal of this project is to:  
+- Measure habit consistency over time  
+- Identify performance patterns across days, weeks, and months  
+- Visualize productivity trends  
+- Highlight areas of improvement  
+- Build a long-term data-driven personal development dashboard (till Dec 2026)
+
+---
+
+## 🧠 Features  
+### **1. Daily Tracking**  
+- Checkboxes for each habit  
+- Auto-calculation of daily completion %  
+- Visual distribution using donut charts  
+
+### **2. Weekly Analysis**  
+- Week-by-week performance score  
+- KPIs: Best Week, Lowest Week, Average Week  
+- Trend line for weekly improvement  
+- Automatic “Needs Attention / On Track” insights  
+
+### **3. Monthly Analytics**  
+- Month-wise completion trends  
+- Comparison charts  
+- Summary of total habit performance  
+- Automated formula-based reports  
+- Works for all months up to **Dec 2026**
+
+### **4. Yearly Dashboard**  
+- Overall productivity trends  
+- Consistency %  
+- High-level KPIs  
+- Line charts + bar charts for insights  
+
+### **5. Automated Insights**  
+Custom logic highlights:  
+- ⚠️ Low-performing weeks  
+- ✔ Well-performing weeks  
+- 📈 Performance improvement  
+
+---
+
+## 🛠 Tools & Techniques Used  
+- **Google Sheets**  
+- **Microsoft Excel**  
+- Pivot Tables  
+- Conditional Formatting  
+- Data Visualization (Line, Bar, Donut Charts)  
+- Logical Formulas (IF, AVERAGE, COUNT, SUM, etc.)  
+- Trend Analysis  
+
+---
+
+## 📅 Data Timeline  
+The dashboard is designed to operate from:  
+- **December 2025 → December 2026**
+
+This makes it a **long-term time-series analytics project**.
+
+---
+
+## 🚀 Current Status  
+✔ Version 1 uploaded  
+✔ Daily, Weekly, Monthly analytics functional  
+✔ Charts generated  
+✔ Dashboard sections created  
+❗ More insights & visual enhancements coming soon  
+🕒 Data will continue updating until **Dec 2026**
+
+---
+
+## 📘 Learning Outcomes  
+This project helped build strong skills in:  
+- Data organization  
+- Analytical thinking  
+- Performance measurement  
+- Visualization design  
+- Excel/Sheets formula engineering  
+
+---
+
+## 📂 Files Included  
+- **Daily-Habits-Analytics-Dashboard.xlsx**  
+- (Optional) `/screenshots/` — Dashboard images  
+- `README.md`  
+- `PROJECT_DESCRIPTION.md`  
+
+---
+
+## 📌 Future Enhancements  
+- Add category-wise scoring (Health, Study, Personal)  
+- Add habit difficulty weighting  
+- Add monthly auto-insight generation  
+- Add streak calculation  
+- Add Power BI version of the dashboard  
+- Create a web-based dashboard (future upgrade)  
+
+---
+
+## 👤 Created By  
+**KVS Chandra Mouli**  
+Data Science Student | Aspiring Data Analyst  
+GitHub: https://github.com/KVSChandraMouli05  
+LinkedIn: https://www.linkedin.com/in/mouli05/
